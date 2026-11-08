@@ -1,8 +1,8 @@
-## Title:
+# Title
 
 Introduction of Miyake Nozomi
 
-## Function:
+## Function
 
 1. profile
 2. favorite food
